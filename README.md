@@ -1,13 +1,8 @@
 # add-to-cart
 
-Quick start:
+A very simple project to add needed products to the needs virtual cart, and anyone in the family who would bring these products to the family that shares the app can simply click it and delete it.
 
-```
-$ npm install
-$ npm start
-````
 
-Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
